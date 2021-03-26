@@ -1,0 +1,1 @@
+This is for scaling images like your minecraft skin that break using typical zoom.

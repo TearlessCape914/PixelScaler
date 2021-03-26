@@ -1,0 +1,8 @@
+OS tested on: Windows 10
+Python Version: 3.9.2
+
+Modules to install:
+  cv2   -   4.5.1.48
+
+Other modules Used:
+  os
